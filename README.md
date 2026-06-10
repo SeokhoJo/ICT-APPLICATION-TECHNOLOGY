@@ -373,7 +373,7 @@ The troubleshooting document includes issues such as:
 Project demonstration video:
 
 ```text
-Video Link: https://YOUR_VIDEO_LINK_HERE
+Video Link: https://drive.google.com/file/d/1v8fUURv4gFY9TwBqBKT20eJqoWL2FQDp/view?usp=drive_link
 ```
 
 The video demonstrates:
